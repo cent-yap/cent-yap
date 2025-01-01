@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Yap</h1>
-<h3 align="center">A passionate frontend developer from Manila, Philippines</h3>
+<h3 align="center">A dedicated and passionate frontend developer from Manila, Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cent-yap&label=Profile%20views&color=0e75b6&style=flat" alt="cent-yap" /> </p>
 
