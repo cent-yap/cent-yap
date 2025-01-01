@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cent-yap&label=Profile%20views&color=0e75b6&style=flat" alt="cent-yap" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cent-yap" alt="cent-yap" /></a> </p>
-
 - 🔭 I’m currently working on [ComMIx](https://commix.netlify.app)
 
 - 🌱 I’m currently learning **TypeScript, Web API & SAS**
