@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [SnapShop](https://snapshop-e-commerce.netlify.app)
 
-- 💬 Ask me about **XML, HTML5, CSS3, Frameworks, JS, & Vanilla.JS REACT JS**
+- 💬 Ask me about **XML, HTML5, CSS3, Frameworks, JS, Vanilla.JS & REACT JS**
 
 - 📫 How to reach me **yapcent15@gmail.com**
 
