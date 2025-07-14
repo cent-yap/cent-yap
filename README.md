@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Yap</h1>
-<h2 align="center">A highly dedicated and passionate frontend developer based in Manila, Philippines, crafting seamless and visually stunning user experiences.</h2>
+<h2 align="center">A highly dedicated and passionate Product Designer based in Manila, Philippines, crafting seamless and visually stunning user experiences.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cent-yap&label=Profile%20views&color=0e75b6&style=flat" alt="cent-yap" /> </p>
 
