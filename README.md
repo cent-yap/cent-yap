@@ -1,60 +1,61 @@
-<!-- README.md -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vincent+Yap;Product+Designer+%26+UI%2FUX+Developer;Crafting+Seamless+User+Experiences" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hi, I'm Vincent Yap</h1>
+<h3 align="center">Product Designer & Front-End Developer | Manila, Philippines</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Manila%2C%20Philippines-blue?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=cent-yap&label=Profile%20views&color=0e75b6&style=flat-square" />
+  <em>A highly dedicated and passionate designer crafting seamless, user-focused, and visually stunning digital experiences.</em>
 </p>
 
 ---
 
-### 🧠 About Me
-
-I'm a highly dedicated and passionate **Product Designer** and **UI/UX Developer** based in Manila, Philippines. I specialize in crafting **accessible**, **pixel-perfect**, and **emotionally intuitive** digital experiences—where design meets code with elegance.
-
-- 🔭 Currently building [ComMIx](https://commix.netlify.app)
-- 👯 Open to collaboration on [SnapShop](https://snapshop-e-commerce.netlify.app)
-- 🌱 Learning: `TypeScript`, `Web API`, `SASS/SCSS`
-- 💬 Ask me about: `HTML5`, `CSS3`, `JS`, `React`, `ARIA`, `Vanilla.JS`
-- ⚡ Fun fact: I create videos about front-end development
-- 📫 Reach me at: **yapcent15@gmail.com**
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [ComMIx](https://commix.netlify.app) | A sleek community platform with dynamic UI transitions and semantic structure | React, SCSS, ARIA |
-| [SnapShop](https://snapshop-e-commerce.netlify.app) | E-commerce experience with smooth animations and responsive design | React, Tailwind, Firebase |
-
----
-
-### 🧩 Tech Stack & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,node,figma,tailwind,framer,photoshop,illustrator,php,mysql,java,swift,angular,svelte,webpack" />
+  <img src="https://komarev.com/ghpvc/?username=cent-yap&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+### 🚀 About Me
+
+- 🔭 Currently working on: [**ComMIx**](https://commix.netlify.app)  
+- 🌱 Learning: **TypeScript, Web API, SASS & SCSS**  
+- 👯 Open to collaborate on: [**SnapShop**](https://snapshop-e-commerce.netlify.app)  
+- 💬 Ask me about: **HTML5, CSS3, JavaScript, React.js, Frameworks**  
+- 📫 Reach me at: **yapcent15@gmail.com**  
+- ⚡ Fun fact: *I also create content about front-end development!*  
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://dev.to/cent-yap" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="40" height="40"/></a>
+  <a href="https://www.facebook.com/vincent.yap.2002/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/centyap/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
+  <a href="https://dribbble.com/yapcent" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📚 Blog Highlights
+### 🛠️ Languages & Tools
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="left">
+  <!-- Core -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
 
----
+  <!-- Styling -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS"/>
 
-### 🌐 Connect With Me
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop"/>
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" height="40" alt="Framer"/>
 
-<p align="center">
-  <a href="https://dev.to/cent-yap"><img src="https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-  <a href="https://facebook.com/vincent.yap.2002"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/centyap"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://dribbble.com/yapcent"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+  <!-- Backend & DB -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="MSSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
 </p>
 
 ---
@@ -62,19 +63,16 @@ I'm a highly dedicated and passionate **Product Designer** and **UI/UX Developer
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cent-yap&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cent-yap&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cent-yap&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cent-yap&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🎬 Animation Ideas (Optional Enhancements)
+### ✍️ Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-You can embed subtle animations using:
-- [LottieFiles](https://lottiefiles.com/) for lightweight SVG animations
-- [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) for animated headers
-- GIF previews of your projects (hosted on Imgur or GitHub CDN)
-
----
-
-🧭 _“Design is not just what it looks like and feels like. Design is how it works.”_ — Steve Jobs
