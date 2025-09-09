@@ -1,6 +1,6 @@
 <!-- 🌌 Futuristic Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=4000&pause=1000&color=0EF7FF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Vincent+Yap;🚀+UI/UX+Designer+%7C+Front-End+Developer;🎨+Crafting+Stunning+User+Experiences;💡+Passionate+About+Design+%26+Code" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=4000&pause=1000&color=c09562&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Vincent+Yap;🚀+UI/UX+Designer+%7C+Front-End+Developer;🎨+Crafting+Stunning+User+Experiences;💡+Passionate+About+Design+%26+Code" alt="Typing SVG"/>
 </p>
 
 ---
