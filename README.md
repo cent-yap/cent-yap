@@ -1,7 +1,19 @@
-<!-- 🌌 Futuristic Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=4000&pause=1000&color=c09562&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Vincent+Yap;🚀+UI/UX+Designer+%7C+Front-End+Developer;🎨+Crafting+Stunning+User+Experiences;💡+Passionate+About+Design+%26+Code" alt="Typing SVG"/>
-</p>
+<!-- 🌌 Futuristic Banner with Animated Background -->
+<div align="center" style="background: linear-gradient(-45deg, #0f0c29, #302b63, #24243e, #1e1e1e); background-size: 400% 400%; animation: gradientBG 15s ease infinite; padding: 40px; border-radius: 20px;">
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=4000&pause=1000&color=c09562&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Vincent+Yap;🚀+UI/UX+Designer+%7C+Front-End+Developer;🎨+Crafting+Stunning+User+Experiences;💡+Passionate+About+Design+%26+Code" alt="Typing SVG"/>
+  </p>
+
+</div>
+
+<style>
+@keyframes gradientBG {
+  0% {background-position: 0% 50%;}
+  50% {background-position: 100% 50%;}
+  100% {background-position: 0% 50%;}
+}
+</style>
 
 ---
 
