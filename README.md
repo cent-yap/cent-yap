@@ -50,27 +50,41 @@ Design-led engineer building delightful, accessible, and performant interfaces.
 ---
 
 ## ✨ Highlights — Animated Cards (Profile + Stats)
+
 <div align="center">
 
-<!-- Profile Summary -->
+<!-- ✨ Animated Header Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&animation=fadeIn" width="100%" alt="animated-divider"/>
+
+<!-- 🌌 Profile Summary Card -->
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cent-yap&theme=tokyonight" height="172" alt="profile-summary"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cent-yap&theme=tokyonight&background=00000000&hide_border=true" height="180" alt="profile-summary"/>
 </p>
 
-<!-- Combined Stats row -->
+<!-- 🔥 Stats + Streak (side by side) -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=cent-yap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="github-stats"/>
-  <img src="https://streak-stats.demolab.com?user=cent-yap&theme=tokyonight&hide_border=true" height="170" alt="streak-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cent-yap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" height="170" alt="github-stats"/>
+  <img src="https://streak-stats.demolab.com?user=cent-yap&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFB347&ring=DD2727&currStreakLabel=DDDDDD" height="170" alt="streak-stats"/>
 </p>
 
-<!-- Top Languages -->
+<!-- 🎨 Top Languages -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cent-yap&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="top-langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cent-yap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=🌐%20Top%20Languages" height="150" alt="top-langs"/>
 </p>
+
+<!-- 🌊 Contribution Graph with Waves -->
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cent-yap&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=F7A600&point=FFFFFF" width="95%" alt="activity-graph"/>
+</p>
+
+<!-- ✨ Animated Footer Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=footer&animation=fadeIn" width="100%" alt="animated-divider"/>
 
 </div>
 
-> ⚠️ If any of the images fail to load (rate-limit or username mismatch), GitHub will show a broken image. Make sure your GitHub username is exactly `cent-yap`.
+> 💡 Pro tip: These cards simulate interactivity with **animated SVGs, glowing effects, and flowing graphs**.  
+> For maximum reliability, keep your username set to `cent-yap` in all URLs.
+
 
 ---
 
