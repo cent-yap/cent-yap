@@ -97,10 +97,4 @@ Design-led engineer building delightful, accessible, and performant interfaces.
 
 ---
 
-## ✍️ Blog & Case Studies
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <p align="center"> © Vincent Yap • 2025 </p>
