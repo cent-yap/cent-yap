@@ -103,32 +103,4 @@ Design-led engineer building delightful, accessible, and performant interfaces.
 
 ---
 
-## 📌 Animated Contact Card (copyable)
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=Let%27s+collaborate!+%F0%9F%91%8B&fontSize=20&fontColor=ffffff&animation=twinkling" alt="contact-card"/>
-</p>
-
-**Email:** yapcent15@gmail.com
-
----
-
-## ✨ Visual polish (what I added & how it helps)
-- **Unified theme**: all widgets use a single dark/futuristic theme (`tokyonight`/`react-dark`) for a professional, consistent look.  
-- **Animated headers**: `capsule-render` banners add motion and a polished first impression.  
-- **Reliable analytics**: swapped in well-known endpoints (profile-summary, readme-stats, demolab streaks, activity graph).  
-- **Interactive feel**: contribution graph + animated trophies provide motion and immediacy without JS (safe for README).  
-- **Accessibility**: concise copy, good contrast in images, clear link anchors.
-
----
-
-## 🔧 Want it even bolder?
-I can:
-- Swap to a neon/glass-morphism visual style and provide **SVG hover/glow effects** (works as images, but some hover CSS is restricted on GitHub).  
-- Create a **self-contained HTML preview** (Github Pages) with live hover interactions and micro-animations (requires hosting).  
-- Replace any image widget with an animated GIF that mimics hover/shimmer to create extra *live* feel.
-
-Tell me which direction: **neon + glass**, **sleek + minimal**, or **interactive live preview** — and I’ll push it further.  
-
----
-
-<p align="center">Made with ❤️ & lots of CSS animations — Vincent Yap • 2025</p>
+<p align="center"> © Vincent Yap • 2025 </p>
