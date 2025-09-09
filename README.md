@@ -19,7 +19,7 @@
 **Product Designer • UI/UX Designer • Front-End Developer** — Manila, Philippines  
 Design-led engineer building delightful, accessible, and performant interfaces.
 
-**Quick snapshot**
+
 ## 👨‍💻 About Me
 - 🌐 Portfolio: [**vincent-yap.vercel.app**](https://vincent-yap.vercel.app)  
 - 🔭 Currently building: [**ComMIx**](https://commix.netlify.app)  
