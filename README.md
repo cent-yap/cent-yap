@@ -1,6 +1,6 @@
 <!-- 🌌 Futuristic Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=4000&pause=1000&color=0EF7FF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Vincent+Yap;🚀+Product+Designer+%7C+Front-End+Developer;🎨+Crafting+Stunning+User+Experiences;💡+Passionate+About+Design+%26+Code" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=4000&pause=1000&color=0EF7FF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Vincent+Yap;🚀+UI/UX+Designer+%7C+Front-End+Developer;🎨+Crafting+Stunning+User+Experiences;💡+Passionate+About+Design+%26+Code" alt="Typing SVG"/>
 </p>
 
 ---
@@ -8,8 +8,8 @@
 ### 👨‍💻 About Me  
 - 🔭 Currently building: [**ComMIx**](https://commix.netlify.app)  
 - 🌱 Exploring: **TypeScript · Web API · SASS/SCSS**  
-- 🤝 Open to collaborate on: [**SnapShop**](https://snapshop-e-commerce.netlify.app)  
-- 💬 Ask me about: **HTML · CSS · JavaScript · React.js**  
+- 🤝 Open for collaborations  
+- 💬 Ask me about: **HTML · CSS · JavaScript · CSS Frameworks · CSS Animations ·**  
 - 📫 Reach me at: **yapcent15@gmail.com**  
 - ⚡ Fun fact: *I create front-end dev content + design case studies*  
 
