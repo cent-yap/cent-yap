@@ -28,26 +28,16 @@
 
 <!-- Unique Header -->
 <h1 align="center">
-  <svg width="32" height="32" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <!-- Outer glowing circle -->
-    <circle cx="50" cy="50" r="45" stroke="#F7A600" stroke-width="4" fill="none">
-      <animateTransform attributeName="transform" attributeType="XML" type="rotate"
-        from="0 50 50" to="360 50 50" dur="8s" repeatCount="indefinite"/>
-    </circle>
-    <!-- Inner V logo -->
-    <path d="M30 30 L50 70 L70 30" stroke="#F7A600" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
-      <animate attributeName="stroke" values="#F7A600;#FF4D6D;#00E0FF;#F7A600" dur="6s" repeatCount="indefinite"/>
-    </path>
-  </svg>
+  <img src="https://img.shields.io/badge/VY-Logo-F7A600?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
   Vincent Yap (cent-yap)
 </h1>
+
 
 <p align="center">
   <b>Product Designer • UI/UX Designer • Front-End Developer</b> — Manila, Philippines  
   <br/>
   Design-led engineer building delightful, accessible, and performant interfaces.
 </p>
-
 
 
 ## 👨‍💻 About Me
