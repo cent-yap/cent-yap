@@ -5,9 +5,20 @@
      ========================= -->
 
 <!-- 🌌 Top Animated Banner -->
-<p align="center">
+<div align="center">
+
+<!-- Animated Emoji Icons -->
+<img src="https://github.com/cent-yap/cent-yap/blob/main/assets/wave-hand.gif?raw=true" width="40" alt="wave" style="margin-right:8px"/>
+<img src="https://github.com/cent-yap/cent-yap/blob/main/assets/rocket.gif?raw=true" width="40" alt="rocket" style="margin-right:8px"/>
+<img src="https://github.com/cent-yap/cent-yap/blob/main/assets/palette.gif?raw=true" width="40" alt="palette" style="margin-right:8px"/>
+<img src="https://github.com/cent-yap/cent-yap/blob/main/assets/bulb.gif?raw=true" width="40" alt="lightbulb"/>
+
+<!-- Typing SVG -->
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=4000&pause=1000&color=F7A600&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Vincent+Yap;🚀+UI%2FUX+Designer+%7C+Front-End+Developer;🎨+Crafting+Stunning+User+Experiences;💡+Design+%26+Code+Combined" alt="Typing SVG"/>
 </p>
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Designing+the+Future+—+Pixel+by+Pixel&fontSize=36&fontColor=ffffff&animation=twinkling" alt="Waving banner"/>
