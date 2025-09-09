@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me  
 - 🔭 Currently building: [**ComMIx**](https://commix.netlify.app)  
-- 🌱 Exploring: **TypeScript · Web API · SASS/SCSS**  
+- 🌱 Exploring: **REACT.Js · TypeScript · Web API · SASS/SCSS**  
 - 🤝 Open for collaborations  
 - 💬 Ask me about: **HTML · CSS · JavaScript · CSS Frameworks · CSS Animations ·**  
 - 📫 Reach me at: **yapcent15@gmail.com**  
