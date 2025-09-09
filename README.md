@@ -28,8 +28,7 @@
 
 <!-- Unique Header -->
 <h1 align="center">
-  <img src="https://img.shields.io/badge/VY-Logo-F7A600?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
-  Vincent Yap (cent-yap)
+  💻 Vincent Yap (cent-yap) 
 </h1>
 
 
