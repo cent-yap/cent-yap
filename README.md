@@ -20,12 +20,14 @@
 Design-led engineer building delightful, accessible, and performant interfaces.
 
 **Quick snapshot**
+## 👨‍💻 About Me
+- 🌐 Portfolio: [**vincent-yap.vercel.app**](https://vincent-yap.vercel.app)  
 - 🔭 Currently building: [**ComMIx**](https://commix.netlify.app)  
 - 🌱 Exploring: **React · TypeScript · Web APIs · SASS/SCSS**  
 - 🤝 Open to collaborations & freelance  
 - 💬 Ask me about: **HTML · CSS · JS · Animations · Design Systems**  
 - 📫 Email: **yapcent15@gmail.com**  
-- ⚡ Fun fact: I publish front-end tutorials & design case studies.
+- ⚡ Fun fact: I publish front-end tutorials & design case studies.  
 
 ---
 
