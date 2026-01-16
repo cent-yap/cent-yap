@@ -44,7 +44,7 @@
 - 🔭 Currently building: [**Luxury Presence**](https://luxury-p.netlify.app)  
 - 🌱 Exploring: **React · TypeScript · Web APIs · SASS/SCSS**  
 - 🤝 Open to collaborations & freelance  
-- 💬 Ask me about: **HTML · CSS · JS · Animations · Design Systems**  
+- 💬 Ask me about: **HTML5 · Modern CSS · JS · TAILWIND CSS · SASS/SCSS · Animations · Design Systems**  
 - 📫 Email: **yapcent15@gmail.com**  
 - ⚡ Fun fact: I publish front-end tutorials & design case studies.  
 
