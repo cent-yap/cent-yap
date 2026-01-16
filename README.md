@@ -56,7 +56,7 @@
   <a href="https://www.facebook.com/vincent.yap.2002/" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=facebook" width="44" alt="facebook"/></a>
   <a href="https://www.instagram.com/centyap/" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=instagram" width="44" alt="instagram"/></a>
   <a href="https://dribbble.com/yapcent" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=dribbble" width="44" alt="dribbble"/></a>
-  <a href="https://www.linkedin.com/in/cent-yap/" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/vincent-yap-/" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="linkedin"/></a>
 </p>
 
 ---
