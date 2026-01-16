@@ -41,7 +41,7 @@
 
 ## 👨‍💻 About Me
 - 🌐 Portfolio: [**vincent-yap.vercel.app**](https://vincent-yap.vercel.app)  
-- 🔭 Currently building: [**ComMIx**](https://commix.netlify.app)  
+- 🔭 Currently building: [**Luxury Presence**](https://luxury-p.netlify.app)  
 - 🌱 Exploring: **React · TypeScript · Web APIs · SASS/SCSS**  
 - 🤝 Open to collaborations & freelance  
 - 💬 Ask me about: **HTML · CSS · JS · Animations · Design Systems**  
