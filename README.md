@@ -40,13 +40,16 @@
 
 
 ## 👨‍💻 About Me
-- 🌐 Portfolio: [**vincent-yap.vercel.app**](https://vincent-yap.vercel.app)  
-- 🔭 Currently building: [**MARCI METZGER HOMES**](https://metzger-homes.netlify.app)  
-- 🌱 Exploring: **React · TypeScript · Web APIs · SASS/SCSS**  
-- 🤝 Open to collaborations & freelance  
-- 💬 Ask me about: **HTML5 · Modern CSS · JS · TAILWIND CSS · SASS/SCSS · Animations · Design Systems**  
-- 📫 Email: **yapcent15@gmail.com**  
-- ⚡ Fun fact: I publish front-end tutorials & design case studies.  
+- 🌐 **Portfolio:** [vincent-yap.vercel.app](https://vincent-yap.vercel.app)  
+- 🔭 **Current Projects:**  
+  - [UCV LAW OFFICES](http://ucvlaw.rf.gd)  
+- ✅ **Done Projects:**  
+  - [MARCI METZGER HOMES](https://metzger-homes.netlify.app)  
+- 🌱 **Exploring:** React Js· TypeScript · Web APIs · SASS/SCSS · Tailwind CSS 
+- 🤝 **Open to:** Collaborations & Freelance Opportunities  
+- 💬 **Expertise:** HTML5 · Modern CSS · JavaScript · Tailwind CSS · SASS/SCSS · Animations · Design Systems  
+- 📫 **Contact:** yapcent15@gmail.com  
+- ⚡ **Fun Fact:** I publish front-end tutorials & design case studies  
 
 ---
 
