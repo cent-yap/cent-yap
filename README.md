@@ -1,6 +1,6 @@
 <!-- =========================
      README: Vincent Yap (cent-yap)
-     Modern • Futuristic • Animated
+     Modern • Futuristic • Animated • 2026 Edition
      Paste this whole file into README.md
      ========================= -->
 
@@ -28,9 +28,8 @@
 
 <!-- Unique Header -->
 <h1 align="center">
-  💻 Vincent Yap (cent-yap) 
+  💻 Vincent Yap (cent-yap)
 </h1>
-
 
 <p align="center">
   <b>Product Designer • UI/UX Designer • Front-End Developer</b> — Manila, Philippines  
@@ -38,14 +37,13 @@
   Design-led engineer building delightful, accessible, and performant interfaces.
 </p>
 
-
 ## 👨‍💻 About Me
 - 🌐 **Portfolio:** [vincent-yap.vercel.app](https://vincent-yap.vercel.app)  
 - 🔭 **Current Projects:**  
   - [UCV LAW OFFICES](http://ucvlaw.rf.gd)  
-- ✅ **Done Projects:**  
+- ✅ **Completed Projects:**  
   - [MARCI METZGER HOMES](https://metzger-homes.netlify.app)  
-- 🌱 **Exploring:** React Js· TypeScript · Web APIs · SASS/SCSS · Tailwind CSS 
+- 🌱 **Exploring:** React.js · TypeScript · Web APIs · SASS/SCSS · Tailwind CSS · Modern CSS  
 - 🤝 **Open to:** Collaborations & Freelance Opportunities  
 - 💬 **Expertise:** HTML5 · Modern CSS · JavaScript · Tailwind CSS · SASS/SCSS · Animations · Design Systems  
 - 📫 **Contact:** yapcent15@gmail.com  
@@ -107,7 +105,6 @@
 > 💡 Pro tip: These cards simulate interactivity with **animated SVGs, glowing effects, and flowing graphs**.  
 > For maximum reliability, keep your username set to `cent-yap` in all URLs.
 
-
 ---
 
 ## 📈 Contribution Activity (Animated)
@@ -130,9 +127,9 @@
 
 ## 📁 Selected Projects
 - **ComMIx** — A UI-focused project that blends community + utilities. ([Live](https://commix.netlify.app) · [Repo](https://github.com/cent-yap/commix))  
-- **Design System Kit** — Tokens, components and micro-interactions for product teams.  
-- **Motion UI Experiments** — Small experiments focusing on micro-interactions and delight.
+- **Design System Kit** — Tokens, components, and micro-interactions for product teams.  
+- **Motion UI Experiments** — Micro-interactions & delightful animations for modern interfaces.
 
 ---
 
-<p align="center"> © Vincent Yap • 2025 </p>
+<p align="center"> © Vincent Yap • 2026 </p>
