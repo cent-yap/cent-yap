@@ -82,14 +82,17 @@
 </p>
 
 <!-- 🔥 Stats + Streak (side by side) -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=cent-yap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" height="170" alt="github-stats"/>
-  <img src="https://streak-stats.demolab.com?user=cent-yap&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFB347&ring=DD2727&currStreakLabel=DDDDDD" height="170" alt="streak-stats"/>
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=cent-yap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡ GitHub Stats" height="170" alt="github-stats"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.vercel.app/?user=cent-yap&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" height="170" alt="streak-stats"/>
 </p>
 
 <!-- 🎨 Top Languages -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cent-yap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=🌐%20Top%20Languages" height="150" alt="top-langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cent-yap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=🌐 Top Languages" height="150" alt="top-langs"/>
 </p>
 
 <!-- 🌊 Contribution Graph with Waves -->
