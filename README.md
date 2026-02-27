@@ -116,10 +116,6 @@ Design-focused developer building elegant, accessible, and high-performance inte
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cent-yap&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=F7A600&point=FFFFFF" width="95%"/>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&animation=fadeIn" width="100%"/>
 
 </div>
