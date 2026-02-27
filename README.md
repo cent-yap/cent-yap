@@ -129,10 +129,6 @@ Design-focused developer building elegant, accessible, and high-performance inte
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=cent-yap&theme=matrix&row=1&no-frame=true"/>
-</p>
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
