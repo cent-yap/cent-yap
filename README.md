@@ -133,11 +133,7 @@ Design-focused developer building elegant, accessible, and high-performance inte
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cent-yap&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.vercel.app/?user=cent-yap&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
