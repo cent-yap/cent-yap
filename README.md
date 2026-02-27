@@ -65,29 +65,37 @@ Design-focused developer building elegant, accessible, and high-performance inte
 <img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
 </p>
 
-### ⚙ Frameworks & Libraries
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,nodejs"/>
-</p>
+---
 
-### 🎨 Design & Creative
+### ⚙ Frameworks & Runtime
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,framer"/>
-</p>
-
-### 🗄 Databases & Backend Services
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
-</p>
-
-### 🛠 Developer Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,nodejs,vite"/>
 </p>
 
 ---
 
-## 📊 Interactive GitHub Analytics
+### 🎨 UI / Design Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,framer"/>
+</p>
+
+---
+
+### 🗄 Data & Backend Services
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+</p>
+
+---
+
+### 🛠 Developer Environment
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -146,7 +154,7 @@ A curated collection of advanced interaction patterns, animation studies, and im
 > Functional UX earns trust.  
 > Performance keeps users.
 
-I engineer interfaces where visual elegance, usability, and speed coexist seamlessly.
+I build interfaces where aesthetics, usability, and speed coexist seamlessly.
 
 ---
 
