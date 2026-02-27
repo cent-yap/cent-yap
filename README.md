@@ -1,138 +1,140 @@
 <!-- =========================
-     README: Vincent Yap (cent-yap)
-     Modern • Futuristic • Animated • 2026 Edition
-     Paste this whole file into README.md
-     ========================= -->
+README — Vincent Yap
+Modern • Polished • Professional • 2026 Edition
+========================= -->
 
-<!-- 🌌 Top Animated Banner -->
 <div align="center">
 
-<!-- Animated Emoji Icons -->
-<img src="https://github.com/cent-yap/cent-yap/blob/main/assets/wave-hand.gif?raw=true" width="40" alt="wave" style="margin-right:8px"/>
-<img src="https://github.com/cent-yap/cent-yap/blob/main/assets/rocket.gif?raw=true" width="40" alt="rocket" style="margin-right:8px"/>
-<img src="https://github.com/cent-yap/cent-yap/blob/main/assets/palette.gif?raw=true" width="40" alt="palette" style="margin-right:8px"/>
-<img src="https://github.com/cent-yap/cent-yap/blob/main/assets/bulb.gif?raw=true" width="40" alt="lightbulb"/>
+<img src="https://github.com/cent-yap/cent-yap/blob/main/assets/wave-hand.gif?raw=true" width="40"/>
+<img src="https://github.com/cent-yap/cent-yap/blob/main/assets/rocket.gif?raw=true" width="40"/>
+<img src="https://github.com/cent-yap/cent-yap/blob/main/assets/palette.gif?raw=true" width="40"/>
+<img src="https://github.com/cent-yap/cent-yap/blob/main/assets/bulb.gif?raw=true" width="40"/>
 
-<!-- Typing SVG -->
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=4000&pause=1000&color=F7A600&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Vincent+Yap;🚀+UI%2FUX+Designer+%7C+Front-End+Developer;🎨+Crafting+Stunning+User+Experiences;💡+Design+%26+Code+Combined" alt="Typing SVG"/>
-</p>
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=4000&pause=1000&color=F7A600&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vincent+Yap;UI%2FUX+Engineer+%7C+Front-End+Developer;I+Design+%26+Build+Premium+Interfaces;Where+Design+Meets+Engineering" />
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Designing+the+Future+—+Pixel+by+Pixel&fontSize=36&fontColor=ffffff&animation=twinkling" alt="Waving banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Crafting+Exceptional+Digital+Experiences&fontSize=36&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 ---
 
-<!-- Unique Header -->
-<h1 align="center">
-  💻 Vincent Yap (cent-yap)
-</h1>
+# 💻 Vincent Yap (cent-yap)
 
 <p align="center">
-  <b>UI/UX ENGINEER</b> — Manila, Philippines  
-  <br/>
-  Design-led engineer building delightful, accessible, and performant interfaces.
+<b>UI/UX Engineer • Front-End Specialist • Interface Architect</b><br>
+Manila, Philippines<br>
+Design-driven developer focused on building elegant, accessible, and high-performance user experiences.
 </p>
 
-## 👨‍💻 About Me
-- 🌐 **Portfolio:** [vincent-yap.vercel.app](https://vincent-yap.vercel.app)  
-- 🔭 **Current Projects:**  
-  - [UCV LAW OFFICES](http://ucvlaw.rf.gd)  
-- ✅ **Completed Projects:**  
-  - [MARCI METZGER HOMES](https://metzger-homes.netlify.app)  
-- 🌱 **Exploring:** Web APIs · Angular · Svelte ·
-- 🤝 **Open to:** Collaborations & Freelance Opportunities  
-- 💬 **Expertise:** HTML5 · Modern CSS · JavaScript · TypeScript · React.js ·  Next.js ·Tailwind CSS · Dart SASS · Animations · Design Systems  
+---
+
+## 👨‍💻 Profile
+
+- 🌐 **Portfolio:** https://vincent-yap.vercel.app  
+- 🔭 **Currently Building:**  
+  • http://ucvlaw.rf.gd  
+- ✅ **Completed Work:**  
+  • https://metzger-homes.netlify.app  
+- 🌱 **Currently Exploring:** Angular · Svelte · Web APIs · Advanced Animation Systems  
+- 🤝 **Open For:** Freelance · Collaborations · UI Engineering Roles  
+- 💬 **Core Expertise:**  
+  HTML5 · CSS Architecture · JavaScript · TypeScript · React · Next.js · Tailwind · Sass · Motion UI · Design Systems  
 - 📫 **Contact:** yapcent15@gmail.com  
-- ⚡ **Fun Fact:** I publish front-end tutorials & design case studies  
+- ⚡ **Bonus:** I publish front-end tutorials and UI case studies
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://dev.to/cent-yap" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=devto" width="44" alt="dev.to"/></a>
-  <a href="https://www.facebook.com/vincent.yap.2002/" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=facebook" width="44" alt="facebook"/></a>
-  <a href="https://www.instagram.com/centyap/" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=instagram" width="44" alt="instagram"/></a>
-  <a href="https://dribbble.com/yapcent" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=dribbble" width="44" alt="dribbble"/></a>
-  <a href="https://www.linkedin.com/in/vincent-yap-/" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="linkedin"/></a>
+<a href="https://dev.to/cent-yap"><img src="https://skillicons.dev/icons?i=devto" width="44"/></a>
+<a href="https://www.facebook.com/vincent.yap.2002/"><img src="https://skillicons.dev/icons?i=facebook" width="44"/></a>
+<a href="https://www.instagram.com/centyap/"><img src="https://skillicons.dev/icons?i=instagram" width="44"/></a>
+<a href="https://dribbble.com/yapcent"><img src="https://skillicons.dev/icons?i=dribbble" width="44"/></a>
+<a href="https://www.linkedin.com/in/vincent-yap-/"><img src="https://skillicons.dev/icons?i=linkedin" width="44"/></a>
 </p>
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠 Tech Stack & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,nodejs,mysql,firebase,figma,ps,framer" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,nodejs,mysql,firebase,figma,ps,framer"/>
 </p>
 
 ---
 
-## ✨ Highlights — Animated Cards (Profile + Stats)
+## ✨ GitHub Overview
 
 <div align="center">
 
-<!-- ✨ Animated Header Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&animation=fadeIn" width="100%" alt="animated-divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&animation=fadeIn" width="100%"/>
 
-<!-- 🌌 Profile Summary Card -->
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cent-yap&theme=tokyonight&background=00000000&hide_border=true" height="180" alt="profile-summary"/>
-</p>
+<br>
 
-<!-- 🔥 Stats + Streak (side by side) -->
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=cent-yap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡ GitHub Stats" height="170" alt="github-stats"/>
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.vercel.app/?user=cent-yap&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" height="170" alt="streak-stats"/>
-</p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cent-yap&theme=tokyonight&background=00000000&hide_border=true" height="180"/>
 
-<!-- 🎨 Top Languages -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cent-yap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=🌐 Top Languages" height="150" alt="top-langs"/>
-</p>
+<br>
 
-<!-- 🌊 Contribution Graph with Waves -->
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cent-yap&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=F7A600&point=FFFFFF" width="95%" alt="activity-graph"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=cent-yap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub+Performance" height="170"/>
+<img src="https://streak-stats.vercel.app/?user=cent-yap&theme=tokyonight&hide_border=true" height="170"/>
 
-<!-- ✨ Animated Footer Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=footer&animation=fadeIn" width="100%" alt="animated-divider"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cent-yap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cent-yap&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=F7A600&point=FFFFFF" width="95%"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&animation=fadeIn" width="100%"/>
 
 </div>
 
-> 💡 Pro tip: These cards simulate interactivity with **animated SVGs, glowing effects, and flowing graphs**.  
-> For maximum reliability, keep your username set to `cent-yap` in all URLs.
-
 ---
 
-## 📈 Contribution Activity (Animated)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cent-yap&theme=react-dark&area=true&hide_border=true" height="220" alt="contribution-graph"/>
-</p>
+## 🏆 Achievements
 
----
-
-## 🎖️ Achievements & Fun Animations
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cent-yap&theme=matrix&row=1&no-frame=true" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=cent-yap&theme=matrix&row=1&no-frame=true"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 ## 📁 Selected Projects
-- **ComMIx** — A UI-focused project that blends community + utilities. ([Live](https://commix.netlify.app) · [Repo](https://github.com/cent-yap/commix))  
-- **Design System Kit** — Tokens, components, and micro-interactions for product teams.  
-- **Motion UI Experiments** — Micro-interactions & delightful animations for modern interfaces.
+
+**ComMIx**  
+UI-centric platform combining community features with productivity utilities.  
+Live → https://commix.netlify.app  
+Repo → https://github.com/cent-yap/commix  
+
+**Design System Kit**  
+Scalable tokens, components, and interaction patterns for modern product teams.
+
+**Motion UI Experiments**  
+A curated collection of interaction concepts, animation studies, and interface prototypes.
 
 ---
 
-<p align="center"> © Vincent Yap • 2026 </p>
+## 🧠 Philosophy
+
+> Great interfaces are invisible.  
+> The best design is felt, not noticed.
+
+I build products where aesthetics, usability, and performance coexist seamlessly.
+
+---
+
+<p align="center">
+© 2026 Vincent Yap — Designed & Engineered with Precision
+</p>
