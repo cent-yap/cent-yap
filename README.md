@@ -99,16 +99,24 @@ Design-focused developer building elegant, accessible, and high-performance inte
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&animation=fadeIn" width="100%"/>
+
+<br>
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cent-yap&theme=tokyonight&background=00000000&hide_border=true" height="180"/>
 
 <br>
 
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=cent-yap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://streak-stats.vercel.app/?user=cent-yap&theme=tokyonight&hide_border=true" height="170"/>
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cent-yap&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cent-yap&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=F7A600&point=FFFFFF" width="95%"/>
 
 <br>
 
@@ -119,6 +127,10 @@ Design-focused developer building elegant, accessible, and high-performance inte
 ---
 
 ## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=cent-yap&theme=matrix&row=1&no-frame=true"/>
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
