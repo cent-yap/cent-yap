@@ -32,7 +32,7 @@
 </h1>
 
 <p align="center">
-  <b>Product Designer • UI/UX Designer • Front-End Developer</b> — Manila, Philippines  
+  <b>UI/UX ENGINEER</b> — Manila, Philippines  
   <br/>
   Design-led engineer building delightful, accessible, and performant interfaces.
 </p>
@@ -43,9 +43,9 @@
   - [UCV LAW OFFICES](http://ucvlaw.rf.gd)  
 - ✅ **Completed Projects:**  
   - [MARCI METZGER HOMES](https://metzger-homes.netlify.app)  
-- 🌱 **Exploring:** React.js · TypeScript · Web APIs · SASS/SCSS · Tailwind CSS · Modern CSS  
+- 🌱 **Exploring:** Web APIs · Angular · Svelte ·
 - 🤝 **Open to:** Collaborations & Freelance Opportunities  
-- 💬 **Expertise:** HTML5 · Modern CSS · JavaScript · Tailwind CSS · SASS/SCSS · Animations · Design Systems  
+- 💬 **Expertise:** HTML5 · Modern CSS · JavaScript · TypeScript · React.js ·  Next.js ·Tailwind CSS · Dart SASS · Animations · Design Systems  
 - 📫 **Contact:** yapcent15@gmail.com  
 - ⚡ **Fun Fact:** I publish front-end tutorials & design case studies  
 
