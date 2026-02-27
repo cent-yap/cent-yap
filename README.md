@@ -103,6 +103,10 @@ Design-focused developer building elegant, accessible, and high-performance inte
 
 <br>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cent-yap&theme=tokyonight&background=00000000&hide_border=true" height="180"/>
+
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=cent-yap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 <img src="https://streak-stats.vercel.app/?user=cent-yap&theme=tokyonight&hide_border=true" height="170"/>
 
