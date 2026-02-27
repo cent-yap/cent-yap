@@ -112,7 +112,7 @@ Design-focused developer building elegant, accessible, and high-performance inte
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cent-yap&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cent-yap&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=F7A600&point=FFFFFF" width="95%"/>
 
 <br>
 
