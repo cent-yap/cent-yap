@@ -1,6 +1,6 @@
 <!-- =========================
 README — Vincent Yap
-Modern • Polished • Professional • 2026 Edition
+Modern • Interactive • Professional • 2026 Edition
 ========================= -->
 
 <div align="center">
@@ -12,7 +12,7 @@ Modern • Polished • Professional • 2026 Edition
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=4000&pause=1000&color=F7A600&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vincent+Yap;UI%2FUX+Engineer+%7C+Front-End+Developer;I+Design+%26+Build+Premium+Interfaces;Where+Design+Meets+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=4000&pause=1000&color=F7A600&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vincent+Yap;UI%2FUX+Engineer+%7C+Front-End+Developer;I+Design+%26+Build+Premium+Interfaces;Where+Design+Meets+Engineering"/>
 
 </div>
 
@@ -27,7 +27,7 @@ Modern • Polished • Professional • 2026 Edition
 <p align="center">
 <b>UI/UX Engineer • Front-End Specialist • Interface Architect</b><br>
 Manila, Philippines<br>
-Design-driven developer focused on building elegant, accessible, and high-performance user experiences.
+Design-focused developer building elegant, accessible, and high-performance interfaces.
 </p>
 
 ---
@@ -35,20 +35,18 @@ Design-driven developer focused on building elegant, accessible, and high-perfor
 ## 👨‍💻 Profile
 
 - 🌐 **Portfolio:** https://vincent-yap.vercel.app  
-- 🔭 **Currently Building:**  
-  • http://ucvlaw.rf.gd  
-- ✅ **Completed Work:**  
-  • https://metzger-homes.netlify.app  
-- 🌱 **Currently Exploring:** Angular · Svelte · Web APIs · Advanced Animation Systems  
-- 🤝 **Open For:** Freelance · Collaborations · UI Engineering Roles  
-- 💬 **Core Expertise:**  
-  HTML5 · CSS Architecture · JavaScript · TypeScript · React · Next.js · Tailwind · Sass · Motion UI · Design Systems  
+- 🔭 **Currently Building:** http://ucvlaw.rf.gd  
+- ✅ **Completed Work:** https://metzger-homes.netlify.app  
+- 🌱 **Exploring:** Angular · Svelte · Advanced Motion Systems · Web APIs · Performance Optimization  
+- 🤝 **Available For:** Freelance · UI Engineering Roles · Collaborations  
+- 💬 **Specializations:**  
+  Frontend Architecture · UI Engineering · Design Systems · Animation Logic · Interaction Design · Performance UI  
 - 📫 **Contact:** yapcent15@gmail.com  
-- ⚡ **Bonus:** I publish front-end tutorials and UI case studies
+- ⚡ **Content:** I publish frontend tutorials and UI engineering breakdowns  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
 <a href="https://dev.to/cent-yap"><img src="https://skillicons.dev/icons?i=devto" width="44"/></a>
@@ -60,15 +58,36 @@ Design-driven developer focused on building elegant, accessible, and high-perfor
 
 ---
 
-## 🛠 Tech Stack & Tools
+# ⚡ Tech Stack & Tools
 
+### 🧠 Core Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,nodejs,mysql,firebase,figma,ps,framer"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
+</p>
+
+### ⚙ Frameworks & Libraries
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,nodejs"/>
+</p>
+
+### 🎨 Design & Creative
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,framer"/>
+</p>
+
+### 🗄 Databases & Backend Services
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+</p>
+
+### 🛠 Developer Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite"/>
 </p>
 
 ---
 
-## ✨ GitHub Overview
+## 📊 Interactive GitHub Analytics
 
 <div align="center">
 
@@ -80,12 +99,12 @@ Design-driven developer focused on building elegant, accessible, and high-perfor
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cent-yap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub+Performance" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cent-yap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 <img src="https://streak-stats.vercel.app/?user=cent-yap&theme=tokyonight&hide_border=true" height="170"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cent-yap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cent-yap&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 <br>
 
@@ -111,30 +130,26 @@ Design-driven developer focused on building elegant, accessible, and high-perfor
 
 ---
 
-## 📁 Selected Projects
-
-**ComMIx**  
-UI-centric platform combining community features with productivity utilities.  
-Live → https://commix.netlify.app  
-Repo → https://github.com/cent-yap/commix  
+## 📁 Featured Work
 
 **Design System Kit**  
-Scalable tokens, components, and interaction patterns for modern product teams.
+Scalable tokens, reusable components, and structured UI foundations for modern product teams.
 
 **Motion UI Experiments**  
-A curated collection of interaction concepts, animation studies, and interface prototypes.
+A curated collection of advanced interaction patterns, animation studies, and immersive interface concepts.
 
 ---
 
-## 🧠 Philosophy
+## 🧠 Engineering Philosophy
 
-> Great interfaces are invisible.  
-> The best design is felt, not noticed.
+> Beautiful UI attracts attention.  
+> Functional UX earns trust.  
+> Performance keeps users.
 
-I build products where aesthetics, usability, and performance coexist seamlessly.
+I engineer interfaces where visual elegance, usability, and speed coexist seamlessly.
 
 ---
 
 <p align="center">
-© 2026 Vincent Yap — Designed & Engineered with Precision
+© 2026 Vincent Yap — Built with precision and intention
 </p>
