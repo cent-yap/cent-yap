@@ -24,7 +24,7 @@
 **Specializing in Component-Driven Development • Modern CSS Architecture • Design Systems**  
 📍 Manila, Philippines  
 
-*Bridging the gap between high-fidelity design and production-ready engineering — focused on performance, accessibility, and scalability.*
+*Bridging the gap between high-fidelity design and production-ready engineering ✾ focused on performance, accessibility, and scalability.*
 
 </div>
 
