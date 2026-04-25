@@ -32,7 +32,7 @@
 
 ## ⚡ Professional Ecosystem
 
-- 🌐 **Digital Hub:** [PORTFOLIO](https://vincentyap-01.web.app)
+- 🌐 **Digital Hub:** [Portfolio](https://vincentyap-01.web.app)
 - 🚀 **Live Implementations:** [UCV Law](http://ucvlaw.rf.gd) · [Metzger Homes](https://metzger-homes.netlify.app)
 - 🧪 **Researching:** Micro-frontends · Scroll-Driven Animations · WebGL UI · Next.js 15+ Performance
 - 🤝 **Collaboration:** Open for Senior UI Engineering roles, Design System consulting, and high-impact builds
