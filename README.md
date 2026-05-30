@@ -23,7 +23,7 @@ My focus isn't just on making interfaces look good, it's on engineering them cor
 
 ### Design & Creative
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma,blender,notion,ai,ps,xd,ae" />
+<img src="https://skillicons.dev/icons?i=figma,blender,notion,spline,ai,ps,xd,ae" />
 </p>
 
 ### Backend & Infrastructure
