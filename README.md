@@ -28,7 +28,7 @@ My focus isn't just on making interfaces look good, it's on engineering them cor
 
 ### AI Tools
 <p align="left">
-<img src="https://img.shields.io/badge/Claude-C85A2C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDkuNSA5LjVIMkw4IDEzLjVsLTIuNSA4LjVMOSAxNy41bDMgMiAzLTItMi41LTMuNUwyMSA5LjVIMTQuNXoiLz48L3N2Zz4=" />
+<img src="https://img.shields.io/badge/Claude-C85A2C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjIwIiBmaWxsPSJ3aGl0ZSI+4pyxPC90ZXh0Pjwvc3ZnPg==" />
 <img src="https://img.shields.io/badge/Manus-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiA0YTIgMiAwIDEgMCAwIDQgMiAyIDAgMCAwIDAtNHpNMyAxMmw0LTMuNUw5IDEwbDMgMiAzLTIgMi0xLjUgNC0xIDEgMS41LTQgMS41LTIgMS41VjE4aC0ydi0zLjVMMTIgMTZsLTIgMS41VjE4SDh2LTQuNUw2IDEybC0zLTF6Ii8+PC9zdmc+&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-5a3d8a?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-4B4B4B?style=for-the-badge&logo=cursor&logoColor=white" />
