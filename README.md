@@ -13,7 +13,7 @@ My focus isn't just on making interfaces look good, it's on engineering them cor
 
 ### Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
 </p>
 
 ### Frontend Ecosystem
@@ -28,7 +28,7 @@ My focus isn't just on making interfaces look good, it's on engineering them cor
 
 ### Backend & Infrastructure
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,firebase,vercel,netlify,npm,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,supabase,firebase,vercel,netlify,npm,git,github,vscode" />
 </p>
 
 ### AI Tools
