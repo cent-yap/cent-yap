@@ -13,12 +13,12 @@ My focus isn't just on making interfaces look good, it's on engineering them cor
 
 ### Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
 ### Frontend Ecosystem
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vite,webpack,tailwind,sass,react,vue,angular,svelte,nextjs,nuxtjs" />
+<img src="https://skillicons.dev/icons?i=vite,webpack,tailwind,sass,ts,react,vue,angular,svelte,nextjs,nuxtjs" />
 </p>
 
 ### Design & Creative
