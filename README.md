@@ -134,7 +134,7 @@ I believe the best interfaces are not the ones users notice, they are the ones t
 
 > "Great products emerge when thoughtful design meets disciplined engineering."
 > 
-> **- Vincent Yap**
+> **→ Vincent Yap**
 
 ---
 
