@@ -19,6 +19,7 @@ My focus isn't just on making interfaces look good, it's on engineering them cor
 ### Frontend Ecosystem
 <p align="left">
 <img src="https://skillicons.dev/icons?i=vite,webpack,tailwind,sass,ts,react,vue,svelte,angular,nextjs,nuxtjs" />
+<img src="https://img.shields.io/badge/Modern_CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### Design & Creative
