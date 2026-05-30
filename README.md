@@ -130,11 +130,11 @@ Clean architecture enables teams to move faster over time.
 
 My mission is to build digital products that combine **engineering precision, visual craftsmanship, accessibility, and measurable business impact**. 
 
-I believe the best interfaces are not the ones users notice—they are the ones that feel effortless to use.
+I believe the best interfaces are not the ones users notice, they are the ones that feel effortless to use.
 
 > "Great products emerge when thoughtful design meets disciplined engineering."
 > 
-> **— Vincent Yap**
+> **- Vincent Yap**
 
 ---
 
