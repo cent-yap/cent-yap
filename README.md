@@ -23,7 +23,7 @@ My approach transcends aesthetics; I engineer for **integrity and impact**. Whet
 
 ### Frontend Ecosystem
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vite,vite+,astro,tailwind,sass,ts,react,vue,svelte,angular,nextjs,nuxtjs,threejs" />
+<img src="https://skillicons.dev/icons?i=vite,webpack,astro,tailwind,sass,ts,react,vue,svelte,angular,nextjs,nuxtjs,threejs" />
 </p>
 
 ### Design & Creative
