@@ -125,11 +125,11 @@ Proactive quality integration—from conception to AI-assisted testing strategie
 
 ## GitHub Activity
 
-<div align="left">
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cent-yap&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=F7A600&point=FFFFFF" width="95%" alt="Activity Graph"/>
 </div>
 
-<div align="left">
+<div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </div>
 
