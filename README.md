@@ -1,6 +1,6 @@
 # It's Vincent Yap.
 
-### AI Engineer × Design Engineer × QA Engineer
+### AI, Design, & QA Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-034d38?style=for-the-badge )](https://vincentyap-01.web.app ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-004182?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/vincent-yap-/ ) [![Dev.to](https://img.shields.io/badge/Dev.to-Articles-000000?style=for-the-badge&logo=dev.to )](https://dev.to/cent-yap ) [![Email](https://img.shields.io/badge/Email-Contact-a51e0f?style=for-the-badge&logo=gmail&logoColor=white )](mailto:yapcent15@gmail.com)
 
