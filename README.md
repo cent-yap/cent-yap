@@ -33,7 +33,7 @@ My approach transcends aesthetics; I engineer for **integrity, intelligence, and
 
 ### Backend & Infrastructure
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,laravel,api,supabase,firebase,vercel,netlify,npm,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,supabase,firebase,vercel,netlify,npm,git,github,vscode" />
 </p>
 
 ### AI Tools
