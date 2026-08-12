@@ -65,17 +65,6 @@ My approach transcends aesthetics; I engineer for **integrity, intelligence, and
 
 ---
 
-## 🏆 Key Professional Achievements
-
-*   **Performance Excellence:** Consistently optimized frontend architectures to achieve **90+ Core Web Vitals and PageSpeed scores** on complex, animation-heavy applications.
-*   **AI-Driven QA Integration:** Pioneered the integration of LLM-assisted testing workflows, significantly reducing defect rates and manual QA overhead.
-*   **Scalable Systems:** Architected and deployed comprehensive UI component libraries and design tokens, accelerating cross-functional feature delivery.
-*   **Modern CSS Leadership:** Championed the adoption of native nesting, container queries, and cascade layers, establishing maintainable and future-proof styling conventions.
-
-*(Note: Feel free to adjust the specific metrics above to perfectly match your real-world data)*
-
----
-
 ## Featured Projects
 
 ### UI Forms Architecture
@@ -134,20 +123,7 @@ Proactive quality integration—from conception to AI-assisted testing strategie
 
 ---
 
-## 📊 GitHub Activity & Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cent-yap&theme=react-dark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cent-yap&show_icons=true&theme=react-dark&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cent-yap&layout=compact&theme=react-dark&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
-</div>
-
-<br />
+## GitHub Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cent-yap&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=F7A600&point=FFFFFF" width="95%" alt="Activity Graph"/>
